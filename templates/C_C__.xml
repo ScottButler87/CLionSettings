@@ -1,0 +1,7 @@
+<templateSet group="C/C++">
+  <template name="mov" value="std::move($SELECTION$)$END$" description="Surround with std::move (C++11)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
