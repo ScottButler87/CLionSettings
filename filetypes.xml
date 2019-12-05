@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="control_bak" type="PLAIN_TEXT" />
+      <mapping pattern="wasm_ratnum_numeric_overhead" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
